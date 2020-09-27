@@ -520,6 +520,11 @@ opacity:1;
 
 @media (max-width:426px) {
 
+  .footmob{
+    
+    margin-top: 30vw;
+  }
+
   .vglogo{
     height: 28px;
     margin-top: 5px;
