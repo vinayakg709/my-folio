@@ -436,6 +436,8 @@ opacity:1;
     height: 22vh;
   }
 
+  
+
 }
 
 @media (min-height: 750px) and (min-width: 1280px) {
@@ -448,6 +450,7 @@ opacity:1;
   .blogimg{
     height: 26vh ;
   }
+
 
 
 }
@@ -482,6 +485,10 @@ opacity:1;
   }
 
   .footmob{
+    display: none;
+  }
+
+  .backtop{
     display: none;
   }
 
