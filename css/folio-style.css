@@ -456,6 +456,29 @@ opacity:1;
 }
 
 
+@media (min-height: 960px) and (min-width: 1280px) {
+
+  
+  .visual{
+    height: 35vh;
+  }
+
+  .blogimg{
+    height: 21vh ;
+  }
+
+  .vgfitimg{
+    height: 50vh;
+  margin-top:15vh;
+  }
+
+  .vgfithead{
+    margin-top: 17vh;
+  }
+
+}
+
+
 @media (max-width:1050px) {
 
   .ovalmob{
