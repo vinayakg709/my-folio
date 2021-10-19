@@ -67,6 +67,14 @@
     }
   }
 
+  .onhover{
+    color: #888888;
+  }
+
+  .onhover :hover{
+    color: #2b2b2b;
+  }
+
   .subheadrole{
       width: 45vw;
       font-size: 20px;
