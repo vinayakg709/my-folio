@@ -71,9 +71,10 @@
     color: #888888;
   }
 
-  .onhover:hover {
+  .onhover {
     color: #2b2b2b;
     text-decoration: underline;
+    
   }
 
   
